@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jhayrebua24
-- 👀 I’m interested in ReactJS, Typescript, Vue, Laravel
-- 🌱 I’m currently learning Typescript
+- 👀 I’m interested in ReactJS, Typescript, Node, NestJS
 - 💞️ I’m looking to collaborate on more projects
 - 📫 How to reach me : jhayrebua123@gmail.com
 
